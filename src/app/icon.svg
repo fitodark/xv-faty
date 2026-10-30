@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#f3e0dc"/>
+  <path d="M14 56V28a18 18 0 0 1 36 0v28" fill="none" stroke="#b4924a" stroke-width="2"/>
+  <text x="32" y="47" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-style="italic" fill="#9e5f68">XV</text>
+</svg>
