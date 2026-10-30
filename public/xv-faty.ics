@@ -13,7 +13,7 @@ DESCRIPTION:13:00 h Misa en el Templo de la Santa Cruz. 14:00 h Recepción en el
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Mañana son los XV de Faty
+DESCRIPTION:Mañana celebramos los XV de Faty
 END:VALARM
 END:VEVENT
 END:VCALENDAR

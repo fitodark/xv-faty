@@ -167,8 +167,8 @@ function Mensaje() {
             Una invitación de corazón
           </h2>
           <p className="mt-6 font-serif text-h3 leading-snug">
-            Hay días que una quiere guardar para siempre. El 19 de diciembre cumplo quince años y
-            no me imagino ese día sin la gente que me ha visto crecer.
+            Hay días que una quiere guardar para siempre. Ya cumplí quince años, y el 19 de
+            diciembre quiero celebrarlo con la gente que me ha visto crecer.
           </p>
           <p className="mt-6 text-muted-foreground">
             Me encantaría que estuvieras conmigo en la misa para dar gracias, y después en la fiesta
